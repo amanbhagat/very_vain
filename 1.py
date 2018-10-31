@@ -1,4 +1,4 @@
 a = input("Enter first number: ")
-b = 6
+b = input("Enter second number: ")
 c = a * b
 print (c)
